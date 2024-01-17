@@ -1,1 +1,1 @@
-Heatmaps seemed to prevent notebook from uploading, saved here as pdf
+Had issues uploading, saved here as pdf
